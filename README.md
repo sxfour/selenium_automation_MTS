@@ -17,4 +17,3 @@ Indicators (blurred screen)
 - Пример переподключения:
 
 https://user-images.githubusercontent.com/112577182/207609851-2d3b67d6-52e9-4cca-bd79-f149e28eb353.mp4
-
