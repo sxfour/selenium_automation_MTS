@@ -10,5 +10,6 @@ Work automation selenium for view indicators
 
 ![изображение](https://user-images.githubusercontent.com/112577182/207609376-d02462c0-71b1-4097-8021-3aac0c767409.png)
 
+Indicators (blurred screen)
 
 ![изображение](https://user-images.githubusercontent.com/112577182/207607883-cb753a2a-61ab-481a-8fc3-df5d5387301d.png)
