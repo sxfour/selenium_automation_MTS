@@ -13,3 +13,8 @@ Work automation selenium for view indicators
 Indicators (blurred screen)
 
 ![изображение](https://user-images.githubusercontent.com/112577182/207607883-cb753a2a-61ab-481a-8fc3-df5d5387301d.png)
+
+- Пример переподключения:
+
+https://user-images.githubusercontent.com/112577182/207609851-2d3b67d6-52e9-4cca-bd79-f149e28eb353.mp4
+
